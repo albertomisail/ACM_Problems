@@ -1,4 +1,4 @@
-package ProblemSets;
+package String_Problems;
 
 import java.util.Arrays;
 import java.util.HashSet;
